@@ -1,5 +1,7 @@
 ## CS 323 AI Awakening Memo 2: AI Alignment Sandbox
 
+Developed with [AutoGen](https://microsoft.github.io/autogen/).
+
 ### Scenario 1: Recruiter Candidate Negotiation
 
 Agents:
